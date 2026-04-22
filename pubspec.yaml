@@ -1,0 +1,17 @@
+name: nba_odds_comparison
+description: NBA Live Odds Dashboard — a Flutter desktop portfolio app.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  intl: ^0.19.0
+
+flutter:
+  uses-material-design: true
