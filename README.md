@@ -5,7 +5,6 @@ A tool that compares odds of head-to-head matches of the NBA from various Austra
 ## 📌 Features
 - Compare odds across multiple bookmakers
 - View match-by-match odds in a clean UI
-- Fast data fetching service layer
 - Cross-platform (Android, iOS, Web, Desktop)
 
 ---
@@ -18,11 +17,16 @@ A tool that compares odds of head-to-head matches of the NBA from various Austra
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
 
-Example:
-![Home Screen](assets/screenshots/home.png)
+Examples:
+New Window
+(screenshots/freshpage.png)
 
+Games list
+(screenshots/Matches.png)
+
+Odds display
+(screenshots/odds.png)
 ---
 
 ## 🚀 How to Run
