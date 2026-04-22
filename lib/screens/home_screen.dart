@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
         )
       )
       : const Icon(Icons.refresh_rounded),
-      label: Text(_isLoading ? "Loading,,,": "Get NBA Odds"),
+      label: Text(_isLoading ? "Loading,,,": "Get Latest NBA Odds"),
       )
     );
   }
