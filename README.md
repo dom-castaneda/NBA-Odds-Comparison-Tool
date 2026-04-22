@@ -40,8 +40,9 @@ Then add your API key by editing:
 static const String _apiKey = 'YOUR_API_KEY_HERE';
 ```
 inside:
+```
 lib/services/odds_service.dart
-
+```
 Then run:
 
 ```bash
