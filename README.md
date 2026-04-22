@@ -18,15 +18,14 @@ A tool that compares odds of head-to-head matches of the NBA from various Austra
 
 ## 📸 Screenshots
 
-Examples:
-New Window
-(screenshots/freshpage.png)
+### Home / Main Screen
+![Home Screen](screenshots/freshpage.png)
 
-Games list
-(screenshots/Matches.png)
+### Games List
+![Games List](screenshots/Matches.png)
 
-Odds display
-(screenshots/odds.png)
+### Odds Display
+![Odds Display](screenshots/odds.png)
 ---
 
 ## 🚀 How to Run
