@@ -35,7 +35,7 @@ class OddsService {
   // ---------------------------------------------------------------------------
   // Configuration — mirrors the constants in odds_scraper_nba.py
   // ---------------------------------------------------------------------------
-  static const String _apiKey = 'API KEY';
+  static const String _apiKey = 'YOUR_API_KEY_HERE';
   static const String _sport = 'basketball_nba';
   static const String _regions = 'au';
   static const String _markets = 'h2h';
